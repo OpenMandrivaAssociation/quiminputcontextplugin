@@ -1,5 +1,5 @@
 %define version 0.1.6
-%define release 2.svn909.mdk
+%define release %mkrel 2.svn909.1
 
 Name:           quiminputcontextplugin
 Summary:        Uim context plugin for qt-immodule
