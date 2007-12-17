@@ -9,7 +9,6 @@ Group:			System/Internationalization
 License:		GPL or BSD
 URL:			http://www.kde.gr.jp/~daisuke/immodule_for_qt/pukiwiki/?QUimInputContext
 Source0:		%{name}-%{version}.tar.bz2
-BuildRoot:		%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:		uim
 BuildRequires:	qt3-devel >= 3.3.2-17mdk, uim-devel
 
