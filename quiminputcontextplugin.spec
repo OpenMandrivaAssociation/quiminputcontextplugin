@@ -7,7 +7,7 @@ Version:        %{version}
 Release:        %{release}
 Group:			System/Internationalization
 License:		GPL or BSD
-URL:			http://www.kde.gr.jp/~daisuke/immodule_for_qt/pukiwiki/?QUimInputContext
+URL:			https://www.kde.gr.jp/~daisuke/immodule_for_qt/pukiwiki/?QUimInputContext
 Source0:		%{name}-%{version}.tar.bz2
 BuildRoot:		%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:		uim
